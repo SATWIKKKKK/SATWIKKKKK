@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SATWIKKKKK 
-- 👀 I’m interested in ...cricket coding comedy. Loves C initials, so started off with C++ lol.
-- 🌱 I’m currently learning ...C++ along with DSA
+- 👀 I’m interested in ..
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... satwikchandra65@gmail.com
 - 😄 Pronouns: ... learner.exe
