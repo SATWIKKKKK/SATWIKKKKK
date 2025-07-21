@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SATWIKKKKK 
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ..coding
+- 🌱 I’m currently learning ...NextJS
+- 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ... satwikchandra65@gmail.com
 - 😄 Pronouns: ... learner.exe
 - ⚡ Fun fact: ...just a beginner in the world of coding...
