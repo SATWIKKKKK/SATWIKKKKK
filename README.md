@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+#  About Me:
+# 👋 Hi there, I'm Satwik!
+
+I'm a passionate **Frontend Developer**.  
+Currently diving deeper into **Next.js** and **TypeScript** to build high-performance, scalable web apps.
 
 
 ## 🌐 Socials:
