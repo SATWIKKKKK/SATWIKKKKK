@@ -1,7 +1,7 @@
 #  About Me:
 # 👋 Hi there, I'm Satwik!
 
-I'm a passionate **Frontend Developer**.  
+I'm a passionate **Full-Stack Developer**.  
 Currently diving deeper into **Next.js** and **TypeScript** to build high-performance, scalable web apps.
 
 
