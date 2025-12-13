@@ -52,12 +52,6 @@ Currently diving deeper into <strong>Next.js</strong> and <strong>TypeScript</st
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SATWIKKKKK&icon=0&color=0" alt="Profile Visits" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
