@@ -16,6 +16,9 @@ Currently a <strong>2nd year B.Tech CSE student at KIIT</strong>, building scala
   <a href="https://aaspass-gamma.vercel.app">
     <img src="https://img.shields.io/badge/AASPass-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+   <a href="https://heat-plan.vercel.app">
+    <img src="https://img.shields.io/badge/AASPass-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
