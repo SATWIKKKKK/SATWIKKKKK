@@ -10,8 +10,8 @@ Currently a <strong>2nd year B.Tech CSE student at KIIT</strong>, building scala
 
 ### 🚀 Projects
 <p align="center">
-  <a href="https://vs-integrate.vercel.app">
-    <img src="https://img.shields.io/badge/VS Integrate-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://ca-dence.vercel.app">
+    <img src="https://img.shields.io/badge/Cadence-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://aaspass-gamma.vercel.app">
     <img src="https://img.shields.io/badge/AASPass-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
